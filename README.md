@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @snehajagtap74824
-- 👀 I’m interested in graphics and coding.
-- 🌱 I’m currently learning new inspiring skills.
+👋 Hi, I'm @snehajagtap74824, a coding enthusiast on a journey of endless possibilities. Dive into the code with me! 🚀💻
 
 
 
